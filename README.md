@@ -24,3 +24,5 @@ model on the test data produced an accuracy value of 90.6%.
 
 ![brain-pictures](https://user-images.githubusercontent.com/106591496/223699607-cf20e395-3d55-4e45-a300-83c6e6b2c66e.png)
 
+I attempted to produce another deep learning model with similar accuracy values with the use of the InceptionV3 pre-trained model, however it proved to be
+futile, and this may be due to the fact that InceptionV3 has never been trained on MRI scans.
